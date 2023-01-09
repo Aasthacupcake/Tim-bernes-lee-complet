@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+}
+
+#welcome{
+    background-image:linear-gradient(rgb(212, 119, 135),rgb(16, 99, 99)) ;
+    padding: 30px;
+}
+#profileimg{
+    width: 400px;
+    border-radius: 50px;
+    height: 200px;
+}
+h1{
+    font: size 40px;
+    font-family:sans-serif;
+    font-weight:300;
+}
+#name{
+   font-size: 50px; 
+   font-family: 'Inspiration', cursive;
+}
+h3{
+font-size: 30px;
+font-weight: 300;
+font-family: monospace;
+}
+.menu{
+z-index: 10px;
+position: absolute;
+list-style: none ;
+top: 10px;
+right:30px ;
+cursor:pointer ;
+
+}
+.links{ 
+    float: left;
+    font-family: fantasy;
+    font-size:24px ;
+    padding:6px ;
+   
+}
+ .heading {
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+     
+}
+#videos {
+    background-color: rgb(224, 165, 218);
+}
+#work{
+    background-color: rgb(219, 185, 144);
+}
+#writing{
+    background-color: rgb(240, 240, 168);
+}
+#contact{
+    background-color: rgb(207, 170, 229);
+}
+#bio{
+    background-color: rosybrown;
+}
